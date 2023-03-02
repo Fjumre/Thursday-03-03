@@ -1,0 +1,16 @@
+import java.util.Scanner; 
+public class Main(){
+	void main (String[] args){
+	Scanner scanner = new Scanner (new InputStreamReader(System.in));
+		System.out.println("Please type your name");
+		String name = scanner.nextLine();
+		println("Greetings," + name + " "please enter your age!");
+		int age = scanner.nextInt();
+		System.out.println("Your age : " + age);
+		int retirement = 67;
+		retirement -- age = left
+		println("You have" + left + "years left until retirement");
+
+
+	}
+}

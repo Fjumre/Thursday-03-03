@@ -1,0 +1,19 @@
+import javax.persistence.*;
+public class Team(){
+	void main (String[] args){
+	name = teamName;
+	teamName = "Venture";
+	int rank = teamRank;
+	teamRank = 36;
+	String names;
+	names = teamMembers;
+	teamMembers = "Hank, Dean, Brock, Rusty";
+	Team(String teamName);
+	int rank = setRank;
+	setRank = 01;
+
+		println("Dont look at me!");
+
+
+	}
+}

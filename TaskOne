@@ -1,0 +1,13 @@
+public class MyMain(){
+	void main (String[] args){
+
+		println("Dont look at me!");
+
+	}
+}
+const class Team = new Team();
+setRank = 01;
+
+public String toString({
+	return Team: + name + rank;
+})
